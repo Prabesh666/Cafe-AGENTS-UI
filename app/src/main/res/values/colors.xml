@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF7043</color> <!-- Orange -->
+    <color name="primary_dark">#F4511E</color>
+    <color name="accent_color">#FFA726</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#757575</color>
+    <color name="bot_message_bg">#EEEEEE</color>
+    <color name="user_message_bg">#FF7043</color>
+</resources>
